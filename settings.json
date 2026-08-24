@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "ryzorls.orc.host",
-    "port": 25565,
+    "port": 25575,
     "version": "",
     "try-creative": false
   },
